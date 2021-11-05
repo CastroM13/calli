@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/CastroM13/calli/issues"
   },
-  "homepage": "https://github.com/CastroM13/calli#readme"
+  "homepage": "https://github.com/CastroM13/calli#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "youtube-mp3-downloader": "^0.7.8",
+    "youtube-search": "^1.1.6"
+  }
 }
